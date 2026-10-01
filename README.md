@@ -34,9 +34,9 @@ Repository: [mrkevler/WhisperReader](https://github.com/mrkevler/WhisperReader)
 
 ## 📦 Downloads
 
-**Version 1.1.0 · macOS 14 or newer · Apple Silicon (M1 or newer)**
+**Version 1.1.1 · macOS 14 or newer · Apple Silicon (M1 or newer)**
 
-- [Download WhisperReader for macOS](WhisperReader-1.1.0-macOS-AppleSilicon.zip)
+- [Download WhisperReader for macOS](WhisperReader-1.1.1-macOS-AppleSilicon.zip)
 - [View the sample PDF](WhisperReader-by-mrKevler_sample-text.pdf)
 
 > The current build is signed locally (ad hoc), has not been notarized by Apple and is still awaiting public distribution verification. macOS may warn about or block a downloaded copy. Read the macOS security notice before deciding whether to open it.
